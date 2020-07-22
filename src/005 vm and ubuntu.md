@@ -48,9 +48,11 @@
 **Вот это важная настройка, без которой потом ни пса не будет работать.**
 ![Network.Bridged](./img/005%20NetworkBridged.png)
 
-## 2. Установим на нее Ubuntu
 ### Это глава, где нам пригодится ISO-образ Ubuntu
+![Network.Bridged](./img/005%20NetworkBridged.png)
 
+
+## 2. Установим на нее Ubuntu
 
 
 [Оглавление](./000%20toc.md)
