@@ -1,0 +1,14 @@
+# Compiled class file
+
+# Log file
+
+# Package Files #
+
+#Custom files
+*.secret
+
+# Template and docx
+template.md
+*.docx
+*.pptx
+*.xlsx
