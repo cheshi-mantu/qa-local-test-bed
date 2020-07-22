@@ -58,6 +58,7 @@
 
 1. Загружаем сохранёнку qa-test-bed (см. выше)
 2. Настраиваем параметры по картинкам ниже:
+
 ![picture](./img/007%20PuttyLogging.png)
 
 ![picture](./img/007%20PuttyWindow.png)
@@ -66,12 +67,8 @@
 
 ![picture](./img/007%20PuttyTranslation.png)
 
-Не забываем выйти обратно в Session и сохранить иначе все делали зря!!!
+Не забываем выйти обратно в Session и сохранить. Иначе все делали зря!!!
 
 ![picture](./img/007%20PuttySaveAgain.png)
-
-
-
-
 
 [Оглавление](./000%20toc.md)
