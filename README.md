@@ -5,3 +5,5 @@
 3. Установочный диск ubuntu 18.04 LTS
 4. Git for windows
 5. Putty
+
+[Погнали к Оглавлению](./src/000%20toc.md)
