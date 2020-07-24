@@ -32,7 +32,7 @@ sudo service jenkins restart
 ```
 
 
-Теперь нужно зайти в конфигурацию Jenkins: ```Manage Jenkins > Cinfigure System > Jenkins location:```
+Теперь нужно зайти в конфигурацию Jenkins: ```Manage Jenkins > Configure System > Jenkins location:```
 
 ![Jenkins settings port to 8888](./img/014%20SelenoidJenkinsSettingJenkinsLocation.png)
 
