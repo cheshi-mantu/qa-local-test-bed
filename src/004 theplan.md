@@ -11,11 +11,11 @@
 - [ ] [Установим SDK.](011%20SDK.md) 
 - [ ] [Установим Gradle.](012%20GradleInstall.md)
 - [ ] [Установим Jenkins.](013%20InstallJenkins.md)
-- [ ] [Установим Docker.](014%20DockerSelenoid.md) :whale2:
-- [ ] [Установим Selenoid.](014%20DockerSelenoid.md) :octocat: :thumbsup:
+- [ ] [Установим Docker.](014%20DockerSelenoid.md)
+- [ ] [Установим Selenoid.](014%20DockerSelenoid.md)
 [Оглавление](./000%20toc.md)
 # Что мы вообще тут делаем
-Очень прямо схематично | ![Какая-то схема](./img/004whatarewefoing.jpg)
+Очень прямо схематично | ![Какая-то схема](./img/004whatarewefoing.png)
 -----------------------|-----------------------
 Примечание:| Серое на картинке — это виртуальная машина! 
 

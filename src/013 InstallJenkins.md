@@ -1,3 +1,4 @@
+[Я не туда нажал и хочу обратно в оглавление](./000%20toc.md)
 # Устанавливаем Jenkins
 ## Скачиваем ключ репозитория Jenkins
 ```wget -q -O - https://pkg.jenkins.io/debian-stable/jenkins.io.key | sudo apt-key add -```
