@@ -142,5 +142,18 @@ http://192.168.1.78:8080/
 -Dvideo_storage_url='http://127.0.0.1:8080/video'
 ```
 Далее добавляем плагины в Jenkins и все, что работало на тестовом стенде школы, будет работать и у вас на виртуальной машине.
-
+- [x] [Создадим виртуальную машину.](005%20vm%20and%20ubuntu.md)
+- [x] [Установим на нее Ubuntu.](005%20vm%20and%20ubuntu.md)
+- [x] [Проверим, что все установилось.](006%20checkWeAreOkay.md) 
+- [x] [Да! Еще выучим пару команд линуха.](006%20checkWeAreOkay.md)
+- [x] [Настроим ssh на локальной Windows машине.](007%20sshLocalWindows.md)
+- [x] [Настроим ssh сервер на Ubuntu.](008%20sshOnVm.md)
+- [x] [Настроим аутентификацию при помощи публичного ключа на Ubuntu.](009%20ssh-passwordless.md)
+- [x] [Начнем работать с Ubuntu только через терминал.](009%20ssh-passwordless.md)
+- [x] [Установим JDK.](010%20InstallJDK.md) 
+- [x] [Установим SDK.](011%20SDK.md) 
+- [x] [Установим Gradle.](012%20GradleInstall.md)
+- [x] [Установим Jenkins.](013%20InstallJenkins.md)
+- [x] [Установим Docker.](014%20DockerSelenoid.md) :whale2:
+- [x] [Установим Selenoid.](014%20DockerSelenoid.md) :octocat: :thumbsup:
 [Оглавление](./000%20toc.md)
