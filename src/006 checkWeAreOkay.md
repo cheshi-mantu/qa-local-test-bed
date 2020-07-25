@@ -24,6 +24,7 @@
 ``` hostname -I ```
 
 Вывод команды будет довольно спартанский:
+
 ![hostname -I](./img/006%20CheckHostnameI.png)
 
 
