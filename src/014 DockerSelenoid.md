@@ -91,6 +91,16 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 ```
 sudo docker run hello-world
 ```
+### Можно сделать так, чтобы для запуска Docker не требовалось выполнять sudo
+Следующие три команды добавят текущего пользователя в группу docker (она вероятнее всего уже была создана при установке самого докера):
+```
+sudo groupadd docker
+sudo usermod -aG docker ${USER}
+newgrp docker
+```
+Всё, дальше можно не использовать sudo.
+
+
 ## Устанавливаем менеджер конфигураций для Selenoid
 
 Установка описана на [странице Aerokube](https://aerokube.com/cm/latest/), тут копипаста. 
