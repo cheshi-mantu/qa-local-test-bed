@@ -5,8 +5,8 @@
 
 Еще раз: нам не нужна поддержка USB. Нам ни в коем случае нельзя ставить Host-Only Networking. Поддержка питона нам просто не нужна.
  
-1. Последнюю доступную версию [Git for Windows](https://gitforwindows.org/)
-2. Последнюю доступную версию (как бы смешно это не звучало) [Putty](https://putty.org/)
+2. Последнюю доступную версию [Git for Windows](https://gitforwindows.org/)
+3. Последнюю доступную версию (как бы смешно это не звучало) [Putty](https://putty.org/)
 # Скачать и ничего пока не делать
 [Образ для установки Ubuntu](https://ubuntu.com/download/alternative-downloads)
 
